@@ -1,0 +1,30 @@
+{
+  "name": "sovmserver",
+  "version": "0.0.1",
+  "description": "A server for SOVM accounts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryderprogramming/sovmserver.git"
+  },
+  "keywords": [
+    "SOVM",
+    "server",
+    "social",
+    "media",
+    "foss"
+  ],
+  "author": "Ryder",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/ryderprogramming/sovmserver/issues"
+  },
+  "homepage": "https://github.com/ryderprogramming/sovmserver#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
